@@ -1,0 +1,17 @@
+{
+    "menu": [{
+            "name": "contact",
+            "btn": "btn_contact",
+            "js": "contact.js"
+        }, {
+            "name": "activities",
+            "btn": "btn_home",
+            "js": "home.js"
+        }, {
+            "name": "books",
+            "btn": "btn_books",
+            "js": "books.js"
+        }
+
+    ]
+}

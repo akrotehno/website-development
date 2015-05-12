@@ -1,0 +1,11 @@
+{
+	"folders":
+	[
+		{
+			"path": "/home/freefeather/web/akrotehno",
+		 "folder_exclude_patterns": [
+			"output","node_modules"
+			]
+		}
+	]
+}

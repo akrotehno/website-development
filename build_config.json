@@ -1,0 +1,8 @@
+{
+    "minify": false,
+    "mode": "dev",
+    "domain": {
+        "dev": "localhost:9090",
+        "prd": "akrotehno.github.io"
+    }
+}

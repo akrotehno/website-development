@@ -1,0 +1,48 @@
+{
+    "everyday": {
+        "entries": [{
+            "title": "Αφήγηση Παραμυθιών",
+            "location": "Πάνω όροφος",
+            "description": "Παραμύθια από όλο τον κόσμο και με συνοδεία μουσικής. Η μεταβίβαση γεγονότων σε λόγια και εικόνες, συχνά με αυτοσχεδιασμό ή διακοσμητικό στοιχείο.",
+            "pic_folder": "Stories",
+            "pics": ["1.png", "2.png", "3.png"]
+        }, {
+            "title": "Παρουσίαση Βιβλίων",
+            "location": "Πάνω όροφος",
+            "description": "Αφήγηση και ανάγνωση βιβλίων",
+            "pic_folder": "Books",
+            "pics": ["3.jpg", "4.jpg", "5.jpg"]
+        }, {
+
+            "title": "Ποίηση",
+            "location": "Ισόγειο",
+            "description": "",
+            "pic_folder": "Poetry",
+            "pics": ["1.jpg", "2.jpg", "3.jpg"]
+        }, {
+            "title": "Συνεντεύξεις",
+            "location": "Κάτω όροφος",
+            "description": ""
+        }, {
+            "title": "Εκθέσεις",
+            "location": "Κάτω όροφος",
+            "description": "Ζωγραφική, Γλυπτική, Φωτογραφία"
+        }, {
+            "title": "Σεμινάρια Φιλοσοφίας"
+        }, {
+            "title": "Μαθήματα Γλώσσας",
+            "description": "Ισπανικά, Ελληνικά"
+        }, {
+            "title": "Πρόβες",
+            "description": "Μουσική, Θέατρο"
+        }]
+    },
+    "upcoming": {
+        "entries": [{
+            "title": "Μαθήματα Χορού",
+            "description": "Οι Χοροί των Ζώων και η Ενσωματωμένη Φύση",
+            "pic_folder": "TheAnimalsDances_NatureEmbodied",
+            "pics": ["1.jpg", "2.jpg"]
+        }]
+    }
+}

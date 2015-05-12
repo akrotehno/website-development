@@ -1,0 +1,34 @@
+@media only screen and (max-width: 700px) {
+    #details_content {
+        display: block;
+    }
+    #det_info,
+    #det_pics {
+        width: 100%
+    }
+    #td_details {
+        width: 70%
+    }
+    #td_list{
+        width: 30%
+    }
+}
+
+@media only screen and (max-width: 612px) {
+    #clock, #date, #td_list {
+        display: none;
+    }
+
+    #ribbon_mask{
+        border: none;
+        box-shadow: none;
+    }
+
+}
+
+@media only screen and (max-width: 500px) {
+.popin{
+width: 100%;
+border-radius: 0px;
+}
+}

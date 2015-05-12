@@ -1,0 +1,12 @@
+.flag_links a {
+	display: block;
+	float: left;
+	width: 24px;
+	height: 24px;
+	margin: 0 2px;
+	padding: 0;
+	text-indent: -9999px;
+}
+.flag_links a:hover {
+	margin: 2px 2px -2px 2px;
+}
